@@ -6,7 +6,7 @@ import java.time.LocalDate;
 public class User {
     private String surname;
     private String name;
-    private int bYear;
+    private String bYear;
     private String regDate;
 
     public User(String surname, String name, int bYear, String regDate) {
